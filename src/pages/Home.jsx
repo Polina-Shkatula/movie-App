@@ -1,3 +1,4 @@
+// React Component
 import MovieCard from "../components/MovieCard"
 import { useEffect, useState } from "react"
 import "../css/Home.css"

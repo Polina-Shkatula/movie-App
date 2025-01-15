@@ -1,3 +1,4 @@
+// React Component
 import './css/App.css'
 import Home from './pages/Home';
 import Favorites from './pages/Favorites';

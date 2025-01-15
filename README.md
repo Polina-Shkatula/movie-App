@@ -1,4 +1,6 @@
-# React + Vite
+# React + Vite 
+
+> A React-based application built using JavaScript.
 
 Movie Application
 

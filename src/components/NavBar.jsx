@@ -1,3 +1,4 @@
+// React Component
 import { Link } from "react-router-dom";
 import "../css/Navbar.css"
 
