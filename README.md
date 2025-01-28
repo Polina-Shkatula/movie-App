@@ -27,6 +27,15 @@ A responsive and interactive movie application built with React. The app allows 
 - External API:
     - TMDb API for fetching movie data.
 
+## Screenshots
+
+#### Start Page - Movie App
+
+![Startpage](/src/assets/screenshots/screenshot1.png 'Movie List')
+
+#### Liked Movies
+
+![LikedMovies](/src/assets/screenshots/screenshot2.png 'Liked Movies')
 
 ## Recommended IDE Setup
 
